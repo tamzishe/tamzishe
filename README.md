@@ -1,5 +1,12 @@
 ## Hi there 👋
+## 📌 GitHub Stats
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tamzishe&show_icons=true&theme=cobalt"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tamzishe&layout=compact&theme=cobalt"/>
+
+</div>
 <!--
 **tamzishe/tamzishe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
