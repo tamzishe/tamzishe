@@ -1,6 +1,6 @@
 ## Hello!
 ### About Me
-- 🏢 I’m currently working at Procore Technologies as an SPC Intern
+- 🏢 I’m currently working at PROCORE Technologies as an SPC Intern
 - 🎓 I'm also studying Computer Engineering at the University of Alberta
 - 🌱 Currently, I am learning Computer Hardware, PCB Design, OS Design and App Development
 ## 📌 GitHub Stats
