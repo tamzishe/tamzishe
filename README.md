@@ -4,7 +4,7 @@
 - 🎓 I'm also studying Computer Engineering at the University of Alberta
 - 🌱 Currently, I am learning Computer Hardware, PCB Design, OS Design and App Development
 ## 📌 GitHub Stats
-<div align="center">
+<div align="center" display="flex">
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tamzishe&show_icons=true&theme=cobalt"/>
 
