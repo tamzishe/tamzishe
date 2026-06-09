@@ -1,8 +1,9 @@
-## Hello!
+## Hello! I'm Tamu!
 ### About Me
 - 🏢 I’m currently working at PROCORE Technologies as an SPC Intern
 - 🎓 I'm also studying Computer Engineering at the University of Alberta
 - 🌱 Currently, I am learning Computer Hardware, PCB Design, OS Design and App Development
+- 🗣️ Reach out to me on <a href="https://www.linkedin.com/in/tamusiwira/">LinkedIn</a>!
 ## 📌 GitHub Stats
 <div align="center" display="flex">
 
