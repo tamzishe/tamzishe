@@ -6,11 +6,8 @@
 - 🗣️ Reach out to me on <a href="https://www.linkedin.com/in/tamusiwira/">LinkedIn</a>!
 ## 📌 GitHub Stats
 <div align="center" display="flex">
-
-<div>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tamzishe&show_icons=true&theme=cobalt"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tamzishe&layout=compact&theme=cobalt"/>
-</div>
 </div>
 <!--
 **tamzishe/tamzishe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
